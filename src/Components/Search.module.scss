@@ -1,0 +1,18 @@
+.wrapper{
+  justify-content: right;
+  display: flex;
+  flex-direction: column;
+}
+.poisk{
+  background-color: #82fa71;
+  resize: vertical;
+  padding:15px;
+  border-radius:15px;
+  border-color: green;
+  border:0;
+  box-shadow:4px 4px 10px rgba(0,0,0,0.06);
+}
+.wrapperInput{
+  display: flex;
+  margin: 30px;
+}
